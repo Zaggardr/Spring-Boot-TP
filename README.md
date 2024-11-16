@@ -44,7 +44,7 @@ Sécurité : Ajouter une couche de sécurité pour sécuriser les endpoints API.
 Pagination : Ajouter la pagination pour les requêtes de données volumineuses.
 
 ## Vidéo:
-
+https://github.com/user-attachments/assets/ff8604ad-ac12-4076-8121-fb348296ec01
 
 ## Auteur
 Ce projet a été développé par Zaggar Driss.
